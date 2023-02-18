@@ -9,3 +9,12 @@ Day 1.
   <li<Power Of Two</li>
   <li>Climbing Stairs</li>
 </ul>
+
+Day 2.
+<ul>
+  <li> Fibbonaci Series</li>
+  <li> Binary Search</li>
+  <li> IsSorted</li>
+  <li> Linear Search</li>
+  <li>Sum Of Array Elements</li>
+</ul>
